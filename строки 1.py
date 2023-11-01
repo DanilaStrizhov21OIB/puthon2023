@@ -1,6 +1,6 @@
 slovo = str(input())
 a = slovo[::-1]
 if slovo == a:
-    print("yes")
+    print("ес ес ес")
 else:
-    print("no")
+    print("нононо")
